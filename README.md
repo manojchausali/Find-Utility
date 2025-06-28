@@ -7,7 +7,6 @@ This project is an implementation of a **custom version of the `find` utility** 
 1. **Basic file search** in a directory.
 2. **Filtering files** based on size and type.
 3. **Parallel search** using `fork()` and `pipe()` to assign subdirectories to child processes and aggregate results.
-# Find-Utility
 
 >  Designed and implemented as part of a Systems Programming course project in my eMasters in Cybersecurity from IIT Kanpur.
 
